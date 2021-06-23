@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dannycosto.github.io/csb-z6onh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dannycosto.github.io/csb-z6onh/static/js/main.03b6d310.chunk.js",
+    "main.js.map": "https://dannycosto.github.io/csb-z6onh/static/js/main.03b6d310.chunk.js.map",
+    "runtime-main.js": "https://dannycosto.github.io/csb-z6onh/static/js/runtime-main.9485edd2.js",
+    "runtime-main.js.map": "https://dannycosto.github.io/csb-z6onh/static/js/runtime-main.9485edd2.js.map",
+    "static/js/2.6c84ea3b.chunk.js": "https://dannycosto.github.io/csb-z6onh/static/js/2.6c84ea3b.chunk.js",
+    "static/js/2.6c84ea3b.chunk.js.map": "https://dannycosto.github.io/csb-z6onh/static/js/2.6c84ea3b.chunk.js.map",
+    "index.html": "https://dannycosto.github.io/csb-z6onh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dannycosto.github.io/csb-z6onh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6c84ea3b.chunk.js.LICENSE.txt": "https://dannycosto.github.io/csb-z6onh/static/js/2.6c84ea3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9485edd2.js",
+    "static/js/2.6c84ea3b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.03b6d310.chunk.js"
+  ]
+}
